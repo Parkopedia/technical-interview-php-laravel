@@ -1,0 +1,37 @@
+[
+    {
+        "brand": "shell",
+        "status": "free",
+        "address": "test location 1",
+        "long": 111.921599,
+        "lat": -46.097255
+    },
+    {
+        "brand": "shell",
+        "status": "free",
+        "address": "test location 2",
+        "long": -93.040548,
+        "lat": -27.526679
+    },
+    {
+        "brand": "shell",
+        "status": "free",
+        "address": "test location 3",
+        "long": 4.838185,
+        "lat": 21.262213
+    },
+    {
+        "brand": "shell",
+        "status": "free",
+        "address": "test location 4",
+        "long": 146.953579,
+        "lat": 69.459515
+    },
+    {
+        "brand": "shell",
+        "status": "free",
+        "address": "test location 5",
+        "long": 98.709659,
+        "lat": -85.726133
+    }
+]

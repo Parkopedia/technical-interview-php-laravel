@@ -1,0 +1,37 @@
+[
+    {
+        "brand": "bp",
+        "status": "not_free",
+        "address": "test location 1",
+        "lng": 111.921599,
+        "lat": -46.097255
+    },
+    {
+        "brand": "bp",
+        "status": "not_free",
+        "address": "test location 2",
+        "lng": -93.040548,
+        "lat": -27.526679
+    },
+    {
+        "brand": "bp",
+        "status": "not_free",
+        "address": "test location 3",
+        "lng": 4.838185,
+        "lat": 21.262213
+    },
+    {
+        "brand": "bp",
+        "status": "not_free",
+        "address": "test location 4",
+        "lng": 146.953579,
+        "lat": 69.459515
+    },
+    {
+        "brand": "bp",
+        "status": "not_free",
+        "address": "test location 5",
+        "lng": 98.709659,
+        "lat": -85.726133
+    }
+]

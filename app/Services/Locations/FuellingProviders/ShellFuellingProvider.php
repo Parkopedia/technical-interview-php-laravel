@@ -2,11 +2,9 @@
 
 namespace App\Services\Locations\FuellingProviders;
 
-use Illuminate\Support\Collection;
-
 class ShellFuellingProvider
 {
-    public function getLocations(): Collection
+    function getLocations()
     {
         // $locations = Http::get('https://shell-fuelling.com/api/locations');
 

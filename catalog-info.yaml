@@ -5,7 +5,7 @@ metadata:
   description: Repo for assessing potential new recruits
 spec:
   type: service
-  lifecycle: production
+  lifecycle: experimental
   owner: client-engineering
 ---
 apiVersion: backstage.io/v1alpha1
@@ -15,5 +15,5 @@ metadata:
   description: Repo for assessing potential new recruits
 spec:
   type: service
-  lifecycle: production
+  lifecycle: experimental
   owner: in-car-payments

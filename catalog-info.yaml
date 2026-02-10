@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: parkopedia-technical-interviews-php-client-engineering
+  description: Repo for assessing potential new recruits
+spec:
+  type: service
+  lifecycle: production
+  owner: client-engineering
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: parkopedia-technical-interviews-php-in-car-payments
+  description: Repo for assessing potential new recruits
+spec:
+  type: service
+  lifecycle: production
+  owner: in-car-payments
